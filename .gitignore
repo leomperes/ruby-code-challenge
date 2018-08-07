@@ -109,6 +109,7 @@ atlassian-ide-plugin.xml
 .idea/typescript-compiler.xml
 .idea/markdown-exported-files.xml
 .idea/markdown-navigator.xml
+.idea/vagrant.xml
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
