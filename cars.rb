@@ -3,7 +3,7 @@
 require_relative 'car'
 
 def normalize_data(input)
-  car = Car.new input
+  car = Car.new(input)
   car.normalize
 end
 
